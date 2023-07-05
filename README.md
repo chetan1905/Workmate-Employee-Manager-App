@@ -1,16 +1,5 @@
-# new_attendance_manager
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Workmate-Employee-Manager-App
+This is a Flutter and Firebase application that can be used to track employee data and their performance etc.
+It has various features like attendance history, login-in and log-out functionality, salary calculation, group creation and group chatting, documents sharing etc.
+The login and logout are made secure with the help of firebase Authentication.
+This application makes use of 4 APIs. 
